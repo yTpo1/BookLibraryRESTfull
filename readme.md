@@ -1,4 +1,4 @@
-# Book Library RESTfull service
+# Book Library RESTfull service in ASP.NET Core
 
 Ability to GET and POST books with inforamtion about them
 
